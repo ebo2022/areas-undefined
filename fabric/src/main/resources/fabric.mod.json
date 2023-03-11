@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "areas_undefined",
+  "version": "${version}",
+  "name": "Areas Undefined",
+  "description": "Adds Regions Unexplored generation to vanilla biomes.",
+  "authors": [
+    "ebo2022"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.ebo2022.areas_undefined.fabric.AreasUndefinedFabric"
+    ],
+    "terrablender": [
+      "dev.ebo2022.areas_undefined.fabric.AreasUndefinedFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.19.3",
+    "regions_unexplored": ">=0.3.0",
+    "terrablender": ">=2.1.0.134"
+  }
+}
