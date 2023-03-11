@@ -7,10 +7,6 @@
   "authors": [
     "ebo2022"
   ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
@@ -25,6 +21,7 @@
     "fabric": "*",
     "minecraft": ">=1.19.3",
     "regions_unexplored": ">=0.3.0",
-    "terrablender": ">=2.1.0.134"
+    "terrablender": ">=2.1.0.134",
+    "forgeconfigapiport": ">=5.0.7"
   }
 }
