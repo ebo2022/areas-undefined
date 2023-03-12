@@ -78,6 +78,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "areas_undefined:tall_dark_oak_sapling",
       "regions_unexplored:blackwood_forest_oak",
       "regions_unexplored:blackwood_forest_dark_oak",
       "areas_undefined:dark_oak",

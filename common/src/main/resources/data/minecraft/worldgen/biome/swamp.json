@@ -79,11 +79,11 @@
       "minecraft:spring_lava"
     ],
     [
+      "regions_unexplored:bayou_willow",
       "regions_unexplored:fen_dead_oak",
       "regions_unexplored:fen_cattails",
       "minecraft:glow_lichen",
       "regions_unexplored:medium_grass_placed",
-      "minecraft:trees_swamp",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",

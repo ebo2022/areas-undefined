@@ -77,6 +77,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "areas_undefined:forest_tall_oak_sapling",
       "areas_undefined:birch_aspen",
       "regions_unexplored:deciduous_forest_bush",
       "regions_unexplored:deciduous_forest_oak",

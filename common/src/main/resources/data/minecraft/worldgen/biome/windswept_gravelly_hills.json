@@ -6,7 +6,7 @@
       "minecraft:canyon"
     ]
   },
-  "downfall": 0.9,
+  "downfall": 0.3,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {
@@ -15,13 +15,7 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000
     },
-    "music": {
-      "max_delay": 24000,
-      "min_delay": 12000,
-      "replace_current_music": false,
-      "sound": "minecraft:music.overworld.jungle_and_forest"
-    },
-    "sky_color": 7842047,
+    "sky_color": 8233727,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
@@ -69,32 +63,33 @@
       "regions_unexplored:ru_sand",
       "regions_unexplored:ru_clay",
       "regions_unexplored:ru_mud",
-      "regions_unexplored:ru_gravel"
+      "regions_unexplored:ru_gravel",
+      "minecraft:ore_emerald"
     ],
-    [],
+    [
+      "minecraft:ore_infested"
+    ],
     [
       "minecraft:spring_water",
       "minecraft:spring_lava"
     ],
     [
-      "areas_undefined:tall_jungle_sapling",
-      "areas_undefined:jungle_eucalyptus",
-      "regions_unexplored:old_growth_rainforest_elephant_ear",
+      "regions_unexplored:canadian_forest_grass",
+      "regions_unexplored:pine_forest_tall_grass",
+      "areas_undefined:old_growth_small_larch",
+      "areas_undefined:spruce_taiga",
+      "areas_undefined:tall_spruce_taiga",
+      "areas_undefined:pine_taiga",
+      "areas_undefined:tall_pine_taiga",
       "minecraft:glow_lichen",
-      "minecraft:bamboo_light",
-      "minecraft:trees_jungle",
-      "minecraft:flower_warm",
       "regions_unexplored:medium_grass_placed",
-      "regions_unexplored:patch_tall_forest_ferns",
-      "regions_unexplored:patch_forest_ferns",
-      "minecraft:patch_grass_jungle",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
+      "minecraft:patch_large_fern",
+      "minecraft:flower_default",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
       "regions_unexplored:ru_default_flowers",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "minecraft:vines",
-      "minecraft:patch_melon"
+      "minecraft:patch_pumpkin"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -138,22 +133,10 @@
         "weight": 8
       },
       {
-        "type": "minecraft:chicken",
-        "maxCount": 4,
+        "type": "minecraft:llama",
+        "maxCount": 6,
         "minCount": 4,
-        "weight": 10
-      },
-      {
-        "type": "minecraft:parrot",
-        "maxCount": 2,
-        "minCount": 1,
-        "weight": 40
-      },
-      {
-        "type": "minecraft:panda",
-        "maxCount": 2,
-        "minCount": 1,
-        "weight": 1
+        "weight": 5
       }
     ],
     "misc": [],
@@ -205,12 +188,6 @@
         "maxCount": 1,
         "minCount": 1,
         "weight": 5
-      },
-      {
-        "type": "minecraft:ocelot",
-        "maxCount": 3,
-        "minCount": 1,
-        "weight": 2
       }
     ],
     "underground_water_creature": [
@@ -224,5 +201,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.95
+  "temperature": 0.2
 }

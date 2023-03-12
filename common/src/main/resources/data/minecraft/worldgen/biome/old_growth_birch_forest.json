@@ -77,6 +77,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "areas_undefined:birch_forest_tall_birch_sapling",
       "areas_undefined:birch_aspen_tall",
       "regions_unexplored:silver_birch_forest_grass",
       "regions_unexplored:silver_birch_forest_seeded_grass",
