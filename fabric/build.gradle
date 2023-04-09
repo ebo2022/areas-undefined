@@ -22,11 +22,11 @@ configurations {
 dependencies {
     modImplementation "net.fabricmc:fabric-loader:${rootProject.fabric_loader_version}"
     modApi "net.fabricmc.fabric-api:fabric-api:${rootProject.fabric_api_version}"
-    modImplementation "curse.maven:regions_unexplored-659110:4406268"
-    implementation 'com.electronwill.night-config:core:3.6.5'
-    implementation 'com.electronwill.night-config:toml:3.6.5'
-    modImplementation "fuzs.forgeconfigapiport:forgeconfigapiport-fabric:5.0.9"
-    modImplementation "com.github.glitchfiend:TerraBlender-fabric:1.19.3-2.1.0.134"
+    modImplementation "curse.maven:regions_unexplored-659110:${rootProject.regions_unexplored_fabric_version}"
+    implementation "com.electronwill.night-config:core:${rootProject.night_config_version}"
+    implementation "com.electronwill.night-config:toml:${rootProject.night_config_version}"
+    modImplementation "fuzs.forgeconfigapiport:forgeconfigapiport-fabric:${rootProject.fapiport_version}"
+    modImplementation "com.github.glitchfiend:TerraBlender-fabric:${rootProject.minecraft_version}-${rootProject.terrablender_version}"
 
     // Remove the next line if you don't want to depend on the API
 

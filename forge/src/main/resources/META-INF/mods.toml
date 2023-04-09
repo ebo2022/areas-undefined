@@ -16,27 +16,27 @@ Adds Regions Unexplored generation to vanilla biomes.
 [[dependencies.areas_undefined]]
 modId = "forge"
 mandatory = true
-versionRange = "[44,)"
+versionRange = "[45,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.areas_undefined]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.19.3,)"
+versionRange = "[1.19.4,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.areas_undefined]]
 modId = "regions_unexplored"
 mandatory = true
-versionRange = "[0.3.0,)"
+versionRange = "[0.4.1,)"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.areas_undefined]]
 modId = "terrablender"
 mandatory = true
-versionRange = "[2.1.0.134,)"
+versionRange = "[2.2.0.155,)"
 ordering = "NONE"
 side = "BOTH"

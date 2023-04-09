@@ -26,8 +26,8 @@ configurations {
 
 dependencies {
     forge "net.minecraftforge:forge:${rootProject.forge_version}"
-    modImplementation "curse.maven:regions_unexplored-659110:4406306"
-    modImplementation "com.github.glitchfiend:TerraBlender-forge:1.19.3-2.1.0.134"
+    modImplementation "curse.maven:regions_unexplored-659110:${rootProject.regions_unexplored_forge_version}"
+    modImplementation "com.github.glitchfiend:TerraBlender-forge:${rootProject.minecraft_version}-${rootProject.terrablender_version}"
 
 
     common(project(path: ":common", configuration: "namedElements")) { transitive false }
