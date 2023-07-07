@@ -19,9 +19,9 @@
   },
   "depends": {
     "fabric": "*",
-    "minecraft": ">=1.19.4",
-    "regions_unexplored": ">=0.4.1",
-    "terrablender": ">=2.2.0.155",
-    "forgeconfigapiport": ">=6.0.2"
+    "minecraft": ">=1.20.1",
+    "regions_unexplored": ">=0.4.2",
+    "terrablender": ">=3.0.0.167",
+    "forgeconfigapiport": ">=8.0.0"
   }
 }
