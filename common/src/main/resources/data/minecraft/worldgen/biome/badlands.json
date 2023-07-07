@@ -1,7 +1,6 @@
 {
   "temperature": 2,
   "downfall": 0,
-  "precipitation": "none",
   "effects": {
     "sky_color": 7254527,
     "fog_color": 12638463,
@@ -89,6 +88,7 @@
     "water_ambient": [],
     "water_creature": []
   },
+  "has_precipitation": false,
   "spawn_costs": {},
   "carvers": {
     "air": [

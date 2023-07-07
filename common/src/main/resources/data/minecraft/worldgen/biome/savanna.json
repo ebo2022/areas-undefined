@@ -71,6 +71,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "regions_unexplored:tall_acacia_sapling",
       "regions_unexplored:baobab_savanna_shrub",
       "areas_undefined:savanna_baobab",
       "regions_unexplored:baobab_savanna_bush",
@@ -91,8 +92,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "none",
   "spawn_costs": {},
+  "has_precipitation": false,
   "spawners": {
     "ambient": [
       {

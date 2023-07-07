@@ -77,7 +77,7 @@
       "minecraft:spring_lava"
     ],
     [
-      "areas_undefined:tall_jungle_sapling",
+      "regions_unexplored:tall_jungle_sapling",
       "areas_undefined:jungle_eucalyptus",
       "regions_unexplored:old_growth_rainforest_elephant_ear",
       "minecraft:glow_lichen",
@@ -100,8 +100,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {

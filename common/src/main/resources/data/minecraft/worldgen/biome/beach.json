@@ -312,8 +312,8 @@
       "regions_unexplored:seagrass"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {

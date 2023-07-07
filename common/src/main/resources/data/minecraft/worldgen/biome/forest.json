@@ -77,12 +77,12 @@
       "minecraft:spring_lava"
     ],
     [
-      "areas_undefined:forest_tall_oak_sapling",
-      "areas_undefined:birch_aspen",
+      "areas_undefined:birch_forest_aspen",
       "regions_unexplored:deciduous_forest_bush",
       "regions_unexplored:deciduous_forest_oak",
       "areas_undefined:birch_less_common",
       "regions_unexplored:deciduous_forest_big_oak",
+      "regions_unexplored:tall_oak_sapling",
       "minecraft:glow_lichen",
       "regions_unexplored:medium_grass_placed",
       "regions_unexplored:patch_tall_forest_ferns",
@@ -99,8 +99,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {

@@ -78,7 +78,7 @@
       "minecraft:spring_lava"
     ],
     [
-      "areas_undefined:taiga_tall_spruce_sapling",
+      "regions_unexplored:tall_spruce_sapling",
       "areas_undefined:ru_pine",
       "areas_undefined:old_growth_small_larch",
       "regions_unexplored:old_growth_boreal_bush",
@@ -102,8 +102,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {

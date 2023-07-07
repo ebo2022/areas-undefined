@@ -90,8 +90,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "none",
   "spawn_costs": {},
+  "has_precipitation": false,
   "spawners": {
     "ambient": [
       {

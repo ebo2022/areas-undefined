@@ -77,12 +77,12 @@
       "minecraft:spring_lava"
     ],
     [
-      "areas_undefined:birch_forest_tall_birch_sapling",
-      "areas_undefined:birch",
-      "areas_undefined:birch_aspen",
+      "regions_unexplored:tall_birch_sapling",
+      "areas_undefined:birch_forest_aspen",
+      "areas_undefined:birch_forest_birch",
+      "regions_unexplored:silver_birch_forest_birch",
       "regions_unexplored:silver_birch_forest_grass",
       "regions_unexplored:silver_birch_forest_seeded_grass",
-      "regions_unexplored:cherry_hills_white_cherry_tree",
       "minecraft:glow_lichen",
       "regions_unexplored:medium_grass_placed",
       "minecraft:forest_flowers",
@@ -97,8 +97,8 @@
       "minecraft:freeze_top_layer"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {

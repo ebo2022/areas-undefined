@@ -8,7 +8,7 @@
   },
   "downfall": 0.9,
   "effects": {
-    "fog_color": 12638463,
+    "fog_color": -1350062718,
     "foliage_color": 6975545,
     "grass_color_modifier": "swamp",
     "mood_sound": {
@@ -79,6 +79,7 @@
       "minecraft:spring_lava"
     ],
     [
+      "regions_unexplored:tall_willow_sapling",
       "areas_undefined:swamp_delta",
       "regions_unexplored:bayou_willow",
       "regions_unexplored:fen_dead_oak",
@@ -103,8 +104,8 @@
       "regions_unexplored:patch_duckweed"
     ]
   ],
-  "precipitation": "rain",
   "spawn_costs": {},
+  "has_precipitation": true,
   "spawners": {
     "ambient": [
       {
