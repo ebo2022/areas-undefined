@@ -20,7 +20,7 @@
   "depends": {
     "fabric": "*",
     "minecraft": ">=1.20.1",
-    "regions_unexplored": ">=0.4.2",
+    "regions_unexplored": ">=0.4.1",
     "terrablender": ">=3.0.0.167",
     "forgeconfigapiport": ">=8.0.0"
   }
